@@ -1,0 +1,9 @@
+# Entorno
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Datos 
+data/alt_simple.csv
